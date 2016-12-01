@@ -21,7 +21,8 @@ private static String delimiters = ":|,";
 ```
 
 <div style="text-indent:25px;">Here, delimiters class field sets as delimiters two kinds of symbols: 
-',' (a coma) and ':' (a colon)</div><br>  
+',' (a coma) and ':' (a colon)</div>
+<br>  
 
 ####2. Uses of java.util.Scanner class in context of its predefined delimiter  
 <div style="text-indent:25px;">java.util.Scanner class methods acts like iterators, 
@@ -39,7 +40,8 @@ private static Person personParser(String source) {
 ```
 
 <div style="text-indent:25px;">Here, java.util.Scanner instance nex() method returns tokens of
-each String value between delimeters (coma and colon in this case).</div><br>  
+each String value between delimeters (coma and colon in this case).</div>
+<br>  
 
 ####3. Uses of parsed source String instances as operand and function based arguments  
 <div style="text-indent:25px;">We can use not only direct operand based argument to parse it.

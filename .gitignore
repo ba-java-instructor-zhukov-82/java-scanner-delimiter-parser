@@ -1,0 +1,8 @@
+#.idea - IntelliJ IDEA service files directory
+.idea
+
+#out - Java classes binary files directory
+out
+
+#<project name>.iml - IntelliJ IDEA Module Library
+java-scanner-delimiter-parser.iml
